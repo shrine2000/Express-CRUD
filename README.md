@@ -1,4 +1,4 @@
-	# Work in Progress
+# Work in Progress
 
 This is a CRUD (Create, Read, Update, Delete) app that allows you to manage contacts. You can create new contacts, retrieve existing contacts, update existing contacts, and delete contacts that are no longer needed.
 
